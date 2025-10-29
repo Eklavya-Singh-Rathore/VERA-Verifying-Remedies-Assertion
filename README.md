@@ -66,11 +66,11 @@ Run jupyter lab and open the Model.ipynb file.
 
 **File Structure**
 
-VERA:
-----app.py__________________# The Gradio web app
-----requirements.txt________# Python libraries
-----best_model.joblib_______# The saved, trained model
-----vectorizer.joblib_______# The saved, fitted vectorizer
-----Model.ipynb_____________# Analysis & model training notebook
-----dataset.csv_____________# Original training data
-README.md___________________# This file!
+1.VERA:
+1.1----app.py__________________# The Gradio web app
+1.2----requirements.txt________# Python libraries
+1.3----best_model.joblib_______# The saved, trained model
+1.4----vectorizer.joblib_______# The saved, fitted vectorizer
+1.5----Model.ipynb_____________# Analysis & model training notebook
+1.6----dataset.csv_____________# Original training data
+2.README.md____________________# This file!
