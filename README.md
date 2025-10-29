@@ -8,7 +8,7 @@ https://huggingface.co/spaces/Eklavya73/VERA
 
 📱 App Preview
 
-./VERA/Screenshots/app_preview.png
+![VERA App Screenshot](./VERA/Screenshots/app_preview.png)
 
 **About The Project**
 
@@ -34,7 +34,7 @@ During the analysis, three different models were trained and evaluated. The mode
 
 Model Comparison ROC Curve
 
-./VERA/Screenshots/model_comparison_roc.png
+![Model Comparison ROC Curve](./VERA/Screenshots/model_comparison_roc.png)
 
 **How to Run This Project**
 
