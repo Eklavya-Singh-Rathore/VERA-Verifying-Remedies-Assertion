@@ -4,7 +4,7 @@ This project is a machine learning web app designed to assess the evidential bas
 
 The model was trained on the train_data.csv dataset and is deployed as an interactive web app using Gradio.
 
-[Link to your live Hugging Face Space app]
+https://huggingface.co/spaces/Eklavya73/VERA
 
 **About The Project**
 
