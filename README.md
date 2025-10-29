@@ -20,11 +20,11 @@ This repository contains all the code for the project, including:
 
 During the analysis, three different models were trained and evaluated. The model with the best performance (based on AUC and F1-Score) was chosen for the final app.
 
-**Model                 Accuracy          AUC Score          F1-Score (Real)**
+**Model_________________Accuracy__________AUC Score__________F1-Score (Real)**
 
-**SVM**                  0.9612            0.9938              0.9616
+**SVM**__________________0.9612____________0.9938______________0.9616
 
-**LR**                   0.9523            0.9907              0.9531
+**LR**___________________0.9523____________0.9907______________0.9531
 
-**Random Forest**        0.9482            0.9905              0.9486
+**Random Forest**________0.9482____________0.9905______________0.9486
 
