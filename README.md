@@ -4,9 +4,10 @@ This project is a machine learning web app designed to assess the evidential bas
 
 The model was trained on the train_data.csv dataset and is deployed as an interactive web app using Gradio.
 
+**Click here to view the live app on Hugging Face Spaces!**
 https://huggingface.co/spaces/Eklavya73/VERA
 
-📱 App Preview
+**App Preview**
 
 ![VERA App Screenshot](./VERA/Screenshots/app_preview.png)
 
@@ -32,7 +33,7 @@ During the analysis, three different models were trained and evaluated. The mode
 
 **Random Forest**________0.9482____________0.9905______________0.9486
 
-Model Comparison ROC Curve
+**Model Comparison ROC Curve**
 
 ![Model Comparison ROC Curve](./VERA/Screenshots/model_comparison_roc.png)
 
@@ -63,18 +64,17 @@ Navigate to the notebook/ directory.
 
 Run jupyter lab and open the Model.ipynb file.
 
-📁 File Structure
+**File Structure**
 
-VERA/
-│
-├── app.py                  # The Gradio web app
-├── requirements.txt        # Python libraries
-│
-├── best_model.joblib       # The saved, trained model
-├── vectorizer.joblib       # The saved, fitted vectorizer
-│
-├── Model.ipynb         # Analysis & model training notebook
-│
-├── dataset.csv      # Original training data
-│
-└── README.md               # This file!
+VERA
+----app.py                  # The Gradio web app
+----requirements.txt        # Python libraries
+
+----best_model.joblib       # The saved, trained model
+----vectorizer.joblib       # The saved, fitted vectorizer
+
+----Model.ipynb         # Analysis & model training notebook
+
+----dataset.csv      # Original training data
+
+README.md               # This file!
